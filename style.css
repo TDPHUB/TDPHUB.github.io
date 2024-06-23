@@ -120,7 +120,7 @@ header .navigation a:hover{
     min-width: 100%;
     max-width: 100%;
     min-height: 100vh;
-    background: url(./hero.jpg)no-repeat;
+    background: url(Hero.jpg)no-repeat;
     background-size: cover;
     background-position: center;  
 }
@@ -546,7 +546,7 @@ footer{
 
     .content{
         min-height: 100vh;
-        background: url(./hero.jpg)no-repeat;
+        background: url(Hero.jpg)no-repeat;
         background-size: cover;
         background-position: cover;  
     }
@@ -748,7 +748,7 @@ footer{
         min-width: 100%;
         max-width: 100%;
         min-height: 100vh;
-        background: url(./hero.jpg)no-repeat;
+        background: url(Hero.jpg)no-repeat;
         background-size: cover;
         background-position: center;  
     }
@@ -954,7 +954,7 @@ footer{
         min-width: 100%;
         max-width: 100%;
         min-height: 100vh;
-        background: url(./hero.jpg)no-repeat;
+        background: url(Hero.jpg)no-repeat;
         background-size: cover;
         background-position: center;  
     }
@@ -984,7 +984,8 @@ footer{
     flex-direction: row;
     flex-wrap:wrap;
     max-width: 90%;
-    margin-left: 10%;
+    margin: 5%;
+    margin-bottom: 0;
     margin-top: 0;
     color: white;
     -webkit-text-stroke: 1px white;
